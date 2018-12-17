@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d35c09fd46322bc43b97977f7b0a79ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazePrefab: {fileID: 114019634039523354, guid: e5ca35a52abbe114db229cb5dfd2e1e5,
+      type: 2}
+  - pauseMenuPrefab: {fileID: 114739045298171000, guid: 4b639ddab998a9749bddd6d920b2214b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

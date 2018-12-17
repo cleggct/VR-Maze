@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 83723acca5383b64183305695966fc03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {fileID: 114998813502530954, guid: 002e64e83f87d534aa99bbd5741c975a,
+      type: 2}
+  - passagePrefab: {fileID: 114602940305824578, guid: 8ab67e047cb524d4aaa66462a9da42cb,
+      type: 2}
+  - startRoomPrefab: {fileID: 114086362805321574, guid: 7c754bec64b5fb945aa3b856b8d0a1fd,
+      type: 2}
+  - endRoomPrefab: {fileID: 114228460742513860, guid: 31dc367b4d2c64348a626d38ecd56fa8,
+      type: 2}
+  - catPrefab: {fileID: 114072943187550152, guid: 9f8276953ad5891438feea869194042d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
